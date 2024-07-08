@@ -1,9 +1,19 @@
-# Data-Analysis-Students-Performance
+# Data Analysis: Students' Performance
 
-Project for the Masters' degree course «Programming Tools and Technologies for Data Science» (2023).
+This project was developed as part of the Masters' degree course "Programming Tools and Technologies for Data Science" (2023).
 
-This project investigates the impact of various factors on student performance in Mathematics, Reading, and Science using data from the "Program for International Student Assessment" (PISA) 2015. The dataset contains information on 15-year-old students from different countries. 
+## Overview
 
-According to the requirements of the assignment, a report was compiled with the discovered insights (see Report-Students-Performace).
+The project investigates the impact of various factors on student performance in Mathematics, Reading, and Science using data from the "Program for International Student Assessment" (PISA) 2015. The dataset includes information on 15-year-old students from different countries.
 
-In this project, all data preprocessing, analysis, and visualization steps were conducted using the R programming language (libraries: data.table, ggplot2) and the report was made using LaTeX.
+## Report
+
+A detailed report summarizing the findings and insights discovered during the analysis can be found in [Report-Students-Performance.pdf](link-to-report-pdf).
+
+## Tools Used
+
+- **Programming Language:** R
+- **Libraries:** data.table, ggplot2
+- **Report Creation:** LaTeX
+
+
