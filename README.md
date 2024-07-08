@@ -8,7 +8,7 @@ The project investigates the impact of various factors on student performance in
 
 ## Report
 
-A detailed report summarizing the findings and insights discovered during the analysis can be found in [Report-Students-Performance.pdf](link-to-report-pdf).
+A detailed report summarizing the findings and insights discovered during the analysis can be found in Report-Students-Performance.pdf.
 
 ## Tools Used
 
